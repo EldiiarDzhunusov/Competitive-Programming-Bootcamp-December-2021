@@ -15,6 +15,8 @@ Folders contains my solutions for questions we solved during the bootcamp. Every
 <br />
 <br />
 Main language for the course was C++.
+<br />
+103 solutions has been created in 7 days.
 
 ## Group Photo
 ![](img.jpg)
