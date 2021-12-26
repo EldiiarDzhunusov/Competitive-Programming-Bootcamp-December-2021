@@ -1,5 +1,5 @@
 # Competitive-Programming-Bootcamp-December-2021
-7 day long boot camp that was organized by University of Central Asia to improve our competitive programming skills and prepare us for the ICPC Northern Eurasia Finals 2021.
+8 day long boot camp that was organized by University of Central Asia to improve our competitive programming skills and prepare us for the ICPC Northern Eurasia Finals 2021.
 
 ## Topics
 
