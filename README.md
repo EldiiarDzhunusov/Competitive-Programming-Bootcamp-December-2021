@@ -11,12 +11,10 @@ Mirbek Bakirov  <br />
 Omurbek Jamalov  <br />
 
 ## Outline
-Folders contains my solutions for questions we solved during the bootcamp. Every folder is divided into topics exept the "All_In_One_Folder" where you can check all my solutions in one place.
+Folders contains my solutions for questions we solved during the bootcamp. Every folder is divided into topics exept the folder "All_In_One_Folder" where you can check all my solutions in one folder.
 <br />
 <br />
-Main language for the course was C++.
-<br />
-103 solutions has been created in 7 days.
+Main language for the bootcamp was C++.
 
 ## Group Photo
 ![](img.jpg)
