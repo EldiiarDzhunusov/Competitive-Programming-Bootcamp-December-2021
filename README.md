@@ -28,7 +28,7 @@ Folders contains my solutions for questions we solved during the bootcamp. Every
 Main programming language of the bootcamp was C++.
 <br />
 <br />
-103 solutions had been created in 7 days.
+103 solutions had been created in 8 days.
 
 
 
