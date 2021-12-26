@@ -19,5 +19,16 @@ Main programming language of the bootcamp was C++.
 <br />
 103 solutions had been created in 7 days.
 
+## Topics
+
+Day 1 - Time Complexity Sorting and Searching <br />
+Day 2 - Data Structures <br />
+Day 3 - Dynamic Programming <br />
+Day 4 - Dynamic Programming <br />
+Day 5 - Dynamic Programming <br />
+Day 6 - Graph Algorithms <br />
+Day 7 - Graph Algorithms <br />
+Day 8 - Range Queries, Number Theory <br />
+
 ## Group Photo
 ![](img.jpg)
