@@ -14,7 +14,7 @@ Omurbek Jamalov  <br />
 Folders contains my solutions for questions we solved during the bootcamp. Every folder is divided into the topics exept the "All_In_One_Folder" where you can check all my solutions in one place.
 <br />
 <br />
-Main language for the bootcamp was C++.
+Main programming language of the bootcamp was C++.
 <br />
 <br />
 103 solutions had been created in 7 days.
