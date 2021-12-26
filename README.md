@@ -15,3 +15,6 @@ Folders contains my solutions for questions we solved during the bootcamp. Every
 <br />
 <br />
 Main language for the course was C++.
+
+## Group Photo
+![](img.jpg)
