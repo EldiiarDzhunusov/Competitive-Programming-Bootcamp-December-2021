@@ -19,7 +19,7 @@ Mukhammadmuso Abduzhabbarov <br />
 ## Mentors
 Kylychbek Uraimov  <br />
 Mirbek Bakirov  <br />
-Omurbek Jamalov  <br />
+Omurbek Dzhamalov  <br />
 
 ## Outline
 Folders contains my solutions for questions we solved during the bootcamp. Every folder is divided into the topics exept the "All_In_One_Folder" where you can check all my solutions in one place.
